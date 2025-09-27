@@ -15,7 +15,7 @@ Slowly, I will move towards data analysis, Excel dashboards, and SQL projects.
 - SQL: coming soon  
 
 ## Projects
-I am uploading my work regularly. From small beginner programs like **marks calculator** to bigger projects later in my course.  
+I am uploading my work regularly. From small beginner programs like **marks calculator** to bigger projects later in my data journey. 
 
 ## Goal
 To become a Data Analyst and use data to solve real-world problems.  
