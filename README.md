@@ -20,4 +20,4 @@ I am uploading my work regularly. From small beginner programs like **marks calc
 ## Goal
 To become a Data Analyst and use data to solve real-world problems.  
 
-📫 Connect with me on [LinkedIn] www.linkedin.com/in/abhishek-kumar-hub
+📫 Connect with me on LinkedIn [www.linkedin.com/in/abhishek-kumar-hub]
