@@ -18,7 +18,7 @@
 
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisharma-hub/abhisharma-hub/main/work.gif" alt="work" width="700"/>
+  <img src="https://raw.githubusercontent.com/abhisharma-hub/abhisharma-hub/main/work.gif" alt="work" width="800"/>
 </p>
 
 
