@@ -11,10 +11,13 @@
 </div>
 
 
+
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisharma-hub/my-assets/main/workspace.gif" alt="workspace" width="700"/>
+  <img src="https://raw.githubusercontent.com/abhisharma-hub/abhisharma-hub/main/work.gif" alt="work" width="500"/>
 </p>
+
+
 
 ---
 
