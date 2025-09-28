@@ -1,7 +1,6 @@
 <!-- Profile views top-right -->
-<p align="right">
-	 <img src="https://komarev.com/ghpvc/?username=abhisharma-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=abhisharma-hub&color=blue)
+
 
 <!-- Header -->
 <h1 align="center" style="border-bottom: 2px solid #ccc; padding-bottom: 10px;">
