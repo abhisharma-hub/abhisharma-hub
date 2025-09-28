@@ -46,7 +46,7 @@ I share all my projects, experiments, and progress as I grow.
 ---
 
 ## Projects
-I am uploading my work regularly. From small beginner programs to bigger projects later in my course 
+I am uploading my work regularly. From small beginner programs to bigger projects later in my journey.
 
 ## Goal
 To become a Data Analyst and use data to solve real-world problems.  
