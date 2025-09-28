@@ -1,6 +1,23 @@
+![Profile views](https://komarev.com/ghpvc/?username=abhisharma-hub&color=blue)
+
 <h1 align="center" style="border-bottom: 2px solid #ccc; padding-bottom: 10px;">
   <i>👋_Hi, I'm Abhishek Sharma </i>
 </h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&width=650&lines=I+love+to+play+with+data+📊💻📈;Aspiring+Data+Analyst+🚀;Learning+Python+•+SQL+•+Excel+🔧" alt="Typing SVG" />
+  </a>
+</div>
+
+
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisharma-hub/my-assets/main/workspace.gif" alt="workspace" width="700"/>
+</p>
+
+---
+
 
 🎯 Aspiring Data Analyst | Learning Python, SQL, and Excel  
 📚 Currently doing Data Analytics course  
