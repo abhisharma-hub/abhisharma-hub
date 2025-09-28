@@ -1,5 +1,5 @@
 <!-- Profile views top-right -->
-![Profile views](https://komarev.com/ghpvc/?username=abhisharma-hub&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=abhisharma-hub&color=191970&style=flat)
 
 
 <!-- Header -->
@@ -10,7 +10,7 @@
 <!-- Matrix-style animated intro -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=650&lines=I+love+to+play+with+data+📊💻📈;Aspiring+Data+Analyst+🚀;Learning+Python+•+SQL+•+Excel+🔧" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=83F9DD&center=true&vCenter=true&width=650&lines=I+love+to+play+with+data+📊💻📈;Aspiring+Data+Analyst+🚀;Learning+Python+•+SQL+•+Excel+🔧" alt="Typing SVG" />
   </a>
 </div>
 
