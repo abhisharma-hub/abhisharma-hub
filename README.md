@@ -1,5 +1,5 @@
-                                        __👋 Hi, I'm Abhishek Sharma 🧠_
-_
+                                        👋 Hi, I'm Abhishek Sharma 🧠
+
 🎯 Aspiring Data Analyst | Learning Python, SQL, and Excel  
 📚 Currently doing a Data Analytics course  
 🚀 Sharing my learning projects here, from small programs to real-world projects  
